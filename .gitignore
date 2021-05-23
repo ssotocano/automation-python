@@ -4,5 +4,6 @@
 # Ignora la carpeta auto-platzi (ambiente virtual)
 auto-platzi
 webdriver
+__pycache__
 
 
